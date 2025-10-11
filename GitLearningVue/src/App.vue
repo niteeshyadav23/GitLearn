@@ -1,11 +1,9 @@
-<script setup></script>
+<script setup>
+import Home from './Components/HomePage.vue';
+
+
+</script>
 
 <template>
-  <h1>Making First change in the application</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <Home />
 </template>
-
-<style scoped></style>

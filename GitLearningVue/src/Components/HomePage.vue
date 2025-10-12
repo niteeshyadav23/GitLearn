@@ -1,9 +1,10 @@
 <template>
+    <Navbar />
     <h1>Homepage</h1>
     <p>This is the home page and i will now add home page to default page</p>
     </template>
 
 
 <script setup>
-
+    import Navbar from './Navbar.vue';
 </script>
